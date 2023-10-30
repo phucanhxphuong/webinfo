@@ -23,6 +23,8 @@ body {
     cursor: none;
     font-family: 'Open Sans', sans-serif;
     background-color: var(--mode-default-color);
+    background-image: url("zenitsu.gif");
+}
 }
 
 body.dark-mode {
@@ -38,6 +40,7 @@ body.dark-mode {
     --text-color:#fff;
 
     background-color: var(--mode-default-color);
+    background-image: url("zenitsu.gif");
 }
 
 h1 {
