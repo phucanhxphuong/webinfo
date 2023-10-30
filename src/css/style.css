@@ -9,6 +9,8 @@
 }
 
 body {
+    background-image: url("../img/lord.jpg);
+body {
     --mode-bg-color:#4b0082;
     --mode-default-color:#fff;
     --avatar-box-shadow-color:#4b0082;
@@ -23,7 +25,6 @@ body {
     cursor: none;
     font-family: 'Open Sans', sans-serif;
     background-color: var(--mode-default-color);
-    background-image: url("../img/lord.jpg);
 }
 }
 
@@ -40,7 +41,6 @@ body.dark-mode {
     --text-color:#fff;
 
     background-color: var(--mode-default-color);
-    background-image: url("../img/lord.jpg);
 }
 
 h1 {
